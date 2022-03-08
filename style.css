@@ -1,0 +1,53 @@
+ 
+
+body{
+ margin: 0;
+ background-position:top;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url(https://images.unsplash.com/photo-1622793139910-e261be0b30a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);
+}
+  
+.container{
+ 
+margin-top: 45px;
+display:grid;
+    
+   
+}
+
+.space{
+    margin: 35px;
+}
+
+.moveOne{
+    margin-top: -35px;
+}
+
+.moveTwo{
+    margin-top: -35px;
+}
+.box{
+    width: 35px;
+    height: 35px;
+}
+
+.one{
+   background-image: url(1.png)   
+}
+.two{
+    background-image: url(1.png)   
+}
+.three{
+    background-image: url(1.png)   
+}
+.four{
+    background-image: url(1.png)   
+}
+ 
+.five{
+    background-image: url(1.png)   
+}
+  
+
+  
